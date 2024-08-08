@@ -4,7 +4,7 @@
 ## Description
 There are 5,000 images of handwriting data of traditional Chinese characters. Texts in the data were annotated for the line-level quadrilateral bounding box. The data can be used for chinese characters recognition application
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1190?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1190?source=Github
 
 
 ## Data size
